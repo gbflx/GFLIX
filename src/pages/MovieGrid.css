@@ -31,8 +31,8 @@
 }
 
 .movies-container div:hover {
-  width: 430px;
-  transition: 0.5s;
+  width: 420px;
+  transition: 0.9s;
 }
 
 .movies-container div img {
